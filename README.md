@@ -68,6 +68,9 @@ While I looked at the autocorrelation and partial autocorrelation plots for each
 
 I used dynamic forecasting and projected median home sale values for each zip code 3 and 5 years into the future and based the current median home sale value as the entry point. With the current value and the 3 and 5 year projected values, I calculated ROI (return on investment).
 
+<img src = "./images/dynamic_forecast_Arena Distict.png" width=40%> <img src = "./images/dynamic_forecast_Denver Heights.png" width=40%> <img src = "./images/dynamic_forecast_Dignowity Hill.png" width=40%> 
+<img src = "./images/dynamic_forecast_Eastside.png" width=40%> <img src = "./images/dynamic_forecast_Inner Westside.png" width=40%> <br />
+
 ## Interpret Results
 
 Following are the top 10 zipcode metrics:
@@ -104,7 +107,7 @@ Some next steps in this project include added exogenous factors to our model, su
 
 ## For More Information
 
-Please review my full analysis in [my Jupyter Notebook](./student.ipynb) or my [presentation](./presentation.pdf).
+Please review my full analysis in [my Jupyter Notebook](./notebook.ipynb) or my [presentation](./presentation.pdf).
 
 For any additional questions, please contact **Melody Bass @ meljoy1099@gmail.com**
 
