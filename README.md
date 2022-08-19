@@ -40,7 +40,7 @@ There are several small cities with 1 zip code, while San Antonio itself contain
 
 <img src = "./images/zip_per_city.jpeg" width=70%> <br />
 
-The average median home value has surpased the national average median home value this year. 
+The average median home value has surpassed the national average median home value this year. 
 
 <img src = "./images/sa_vs_us.jpeg" width=60%> <br />
 
