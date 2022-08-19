@@ -66,7 +66,7 @@ Before modeling, I checked the stationarity of residuals for the metro area aver
 
 ### Parameter Selection
 
-While I looked at the autocorrelation and partial autocorrelation plots for each month, I ultimately ran gridsearch on my top 10 ROI zipcodes and found best parameters for each zipcode based on lowest AIC.  
+While I looked at the autocorrelation and partial autocorrelation plots for each month, I ultimately ran gridsearch on my top 10 ROI zip codes and found best parameters for each zip code based on lowest AIC.  
 
 ### Forecasting
 
@@ -77,13 +77,13 @@ I used dynamic forecasting and projected median home sale values for each zip co
 
 ## Interpret Results
 
-Following are the top 10 zipcode metrics for a 3 year investment:
+Following are the top 10 zip code metrics for a 3 year investment:
 
 <img src = "./images/3_year_roi_proj.png" width=60%> <br />
 
 ### Top 5 Zip Code Selection
 
-I looked at the top 10 zip codes selecting for highest ROI, while also taking into account confidence intervals or uncertainty. The top projected zip codes were removed due to their confidence intervals being so uncertain (large). They also had a much higher entry point into the neighborhood than the recommended zipcodes.  My client is most interested in minimizing risk so this is the best strategy for us to utilize to ensure profits.
+I looked at the top 10 zip codes selecting for highest ROI, while also taking into account confidence intervals or uncertainty. The top projected zip codes were removed due to their confidence intervals being so uncertain (large). They also had a much higher entry point into the neighborhood than the recommended zip codes.  My client is most interested in minimizing risk so this is the best strategy for us to utilize to ensure profits.
 
 Our top 5 zip codes are 78237 - Inner Westside, 78210 - Denver Heights, 78220 - Eastside, 78203 - Arena District, and 78202 - Dignowity Hill. All 5 of these zip codes boast projected returns of 38% to 45%, and have great entry point prices ranging form 163k to 241k, far lower than the median value of the city. <br />
 
