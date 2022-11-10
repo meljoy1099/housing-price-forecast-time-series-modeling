@@ -81,7 +81,7 @@ I used dynamic forecasting and projected median home sale values for each zip co
 
 Following are the top 10 zip code metrics for a 3 year investment:
 
-<img src = "./images/3_year_roi_proj.png" width=60%> <br />
+<img src = "./images/3_year_roi_proj.png" width=90%> <br />
 
 ### Top 5 Zip Code Selection
 
