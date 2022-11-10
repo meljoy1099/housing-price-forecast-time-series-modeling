@@ -140,16 +140,16 @@ I would also like to explore other areas in the dataset and modeling packages su
 
 ## For More Information
 
-Please review my full analysis in [my Jupyter Notebook](./notebook.ipynb) or my [presentation](./presentation.pdf).
+Please review my full analysis in [my Jupyter Notebook](./Housing_forecast_notebook.ipynb) or my [presentation](./Housing_forecast_presentation.pdf).
 
 For any additional questions, please contact **Melody Bass @ meljoy1099@gmail.com**
 
 ## Repository Structure
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── student.ipynb                       <- Narrative documentation of analysis in Jupyter notebook
-├── presentation.pdf                    <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── data                                    <- Both sourced externally and generated from code
+└── images                                  <- Both sourced externally and generated from code
+├── README.md                               <- The top-level README for reviewers of this project
+├── Housing_forecast_notebook.ipynb         <- Narrative documentation of analysis in Jupyter notebook
+├── Housing_forecast_presentation.pdf       <- PDF version of project presentation
 ```
