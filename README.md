@@ -1,7 +1,9 @@
 
 # Time Series Analysis of the San Antonio Metro Area
 
-**Authors**: Melody Bass
+**Author**: Melody Bass
+
+<img src = "./images/sanantonioattractions.jpg" width=100%> <br />
 
 ## Overview
 
@@ -9,7 +11,7 @@ San Antonio is the seventh-most populous city in the United States. According to
 
 San Antonio has been one of the hottest real estate markets in the country for many years. It is one of the best places to visit and has one of the fastest-growing economies in the country, driven by sectors such as military, tourism, health care, and insurance. The U.S. Armed Forces have numerous facilities in and around San Antonio; including Fort Sam Houston, Lackland Air Force Base, Randolph Air Force Base, Kelly Air Force Base, Camp Bullis, and Camp Stanley. [[1]](https://en.wikipedia.org/wiki/San_Antonio)
 
-The aim of this project is to provide a detailed analysis of the real estate market in the San Antonio metropolitan area using time series modeling and price forecasting.  Utilizing median monthly home sales prices contained in this [dataset](./data/zillow_2022.csv) prepared by Zillow and my clients specific needs, I will recommend the top 5 San Antonio metro zip codes to invest in which provide the highest return on investment (ROI) and with the lowest associated risk. <br />
+The aim of this project is to provide a detailed analysis of the real estate market in the San Antonio metropolitan area using time series modeling and price forecasting.  Utilizing median monthly home sales prices contained in this [dataset](./data/zillow_2022.csv) prepared by Zillow and my clients specific needs, I will recommend the top 5 San Antonio metro zip codes to invest in which provide the highest return on investment (ROI) with the lowest associated risk. <br />
 
 ## Business Problem
 
